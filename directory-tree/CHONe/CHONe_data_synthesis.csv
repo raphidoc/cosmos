@@ -1,0 +1,4 @@
+ID,ID_carlos,Station,DateTime,Lat,Lon,Zstation,Zsecchi,FU,WaterSample,Secchi,Forel-Ule,COPS,ASD,ASPH,HS6,ECO_Triplet,CTD,CTD(IML),Temp.,Cond.,DO,Turb,Chl-a,Chl-a(3x),ap(2x),aCDOM,fDOM,Pigment,TSS,Cyto(phyt_bact),DOC _TOC_TDN_TN,Nutrients,Salinity,Phyt_taxonomy
+030,023,BSI-06,2017-05-04T19:51:00,50.204117,-66.508417,15.8,3.8,NA,1,T,F,T,F,T,T,T,T,T,NA,NA,NA,NA,NA,T,T,T,T,T,T,T,T,T,T,T
+045,035,SI-01,2017-05-21T13:25:00,50.095367,-66.313567,166,4.5,NA,2,T,T,T,F,T,T,T,T,T,NA,NA,NA,NA,NA,T,T,T,T,T,T,T,T,T,T,T
+172,127,STM-01,2019-06-01T13:50:00,49.9994,-66.5273,146,4.5,NA,1,T,F,T,F,F,T,F,F,F,NA,NA,NA,NA,NA,T,T,T,T,T,T,T,T,T,T,F
