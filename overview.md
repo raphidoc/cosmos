@@ -108,7 +108,7 @@ First of all, a thorough investigation should be performed to asses the normaliz
     1. Methods
 
 2. Processing
-    1. Quality Check
+  1. Quality Check
     2. Reprocessing
 
 3. Distribution
