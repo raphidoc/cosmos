@@ -105,11 +105,11 @@ First of all, a thorough investigation should be performed to asses the normaliz
 ## Data lifecycle and normal usage condition
 
 1. Acquisition
-  1. Methods
+    1. Methods
 
 2. Processing
-  2. Quality Check
-  1. Reprocessing
+    1. Quality Check
+    2. Reprocessing
 
 3. Distribution
 
