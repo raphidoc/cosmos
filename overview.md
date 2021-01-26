@@ -1,3 +1,7 @@
+# Disclaimer
+
+What is described here can be pertinent and useful in any case. But to truly unleash the potential of the concepts presented here, to accomplish the specific goal of improving the practice of science requiring a good amount of complex data with [interwingled](https://en.wikipedia.org/wiki/Intertwingularity) relationships, one must consider the metadata as a primary key. This data about data is critical to properly explore, explain and analyze a database. Nothing can replace the absence of it's collection on filed.
+
 # Directory tree
 
 The directory tree is the basis of the data architecture. This piece is critical to the integrity of the database as it is the main storage for raw and process data files as well as metadata in the form of log-field and log-processing.
@@ -106,7 +110,7 @@ First of all, a thorough investigation should be performed to asses the normaliz
 
 1. Acquisition
     1. Methods
-  
+
 2. Processing
     1. Quality Check
     2. Reprocessing
