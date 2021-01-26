@@ -118,6 +118,10 @@ First of all, a thorough investigation should be performed to asses the normaliz
 3. Distribution
 
 
-# General consideration
+# In between
+
+Beside the directory tree and the RDBMS, several html dashboard are online:
+1. [Database dashboard](https://base-dashboard.netlify.app), built from SQLite database. (faster in chrome)
+2. [QC SPM dashboard](https://chone-qc-spm.netlify.app), built from SPM 'L2' by L3 function.
 
 The link between the directory tree and the RDBMS should be [ACID](https://fr.wikipedia.org/wiki/Propri%C3%A9t%C3%A9s_ACID) compliant.
